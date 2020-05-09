@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <ul><li>Go to market</li><li>Buy food</li><li>Make dinner</li></ul>
       </header>
     </div>
   );
